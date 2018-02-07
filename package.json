@@ -1,0 +1,23 @@
+{
+  "name": "acazia-facebook-sdk-ios",
+  "version": "4.30.0",
+  "description": "Official Facebook SDK compiled.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/acaziasoftcom/acazia-facebook-sdk-ios.git"
+  },
+  "keywords": [
+    "facebook",
+    "sdk"
+  ],
+  "author": "Facebook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acaziasoftcom/acazia-facebook-sdk-ios/issues"
+  },
+  "homepage": "https://github.com/acaziasoftcom/acazia-facebook-sdk-ios#readme"
+}
